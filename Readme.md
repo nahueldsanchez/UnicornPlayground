@@ -16,7 +16,7 @@ Steps based on [1](##references)
 5) Export LD_LIBRARY_PATH=$LD_LIBRARY_PATH: </path_where_libunicorn.so.1_is_stored>
 6) Excute `./samples/sample_all.sh` _#Samples should run without problems_
 
-At this point we've installed **unicorn engine's core**. Let's install `the Python binding`:
+At this point we've installed **unicorn engine's core**. Let's install **the Python binding**:
 
 7) Create `virtualenv` and **activate** it
 8) Run `cd bindings/python`
