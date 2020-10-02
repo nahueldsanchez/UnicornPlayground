@@ -9,7 +9,7 @@
 
 Steps based on [1](##references)
 
-1) Install ** libglib2.0-dev** package by running:  `sudo apt-get install libglib2.0-dev`
+1) Install **libglib2.0-dev** package by running:  `sudo apt-get install libglib2.0-dev`
 2) Clone **Unicorn-Engline's repository:** `git clone https://github.com/unicorn-engine/unicorn.git`
 3) Open the unicorn directory: `cd unicorn`
 4) Run `./make.sh`
