@@ -97,9 +97,9 @@ to understand how to use this functionality as it may be useful for other tasks.
 I've also had to modify the provided assembly a little bit to be able to emulate it.
 
 I've performed the following changes:
-1) added some push instructions at the beginning to pass the arguments to the functions
-2) added some fake return address (push 0x00) to align the stack
-3) removed the ret instruction in assembly-1 as the emulation tried to continue once all the provided code was already executed.
+:ballot_box_with_check: added some push instructions at the beginning to pass the arguments to the functions
+:ballot_box_with_check: added some fake return address (push 0x00) to align the stack
+:ballot_box_with_check: removed the ret instruction in assembly-1 as the emulation tried to continue once all the provided code was already executed.
 
 
 ## References
