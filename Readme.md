@@ -7,7 +7,7 @@
 
 ## Installing unicorn engine (CPU emulator framework) on Ubuntu 18.04.1 LTS
 
-Steps based on [1](##references)
+Steps based on [1](#References)
 
 1) Install **libglib2.0-dev** package by running:  `sudo apt-get install libglib2.0-dev`
 2) Clone **Unicorn-Engline's repository:** `git clone https://github.com/unicorn-engine/unicorn.git`
