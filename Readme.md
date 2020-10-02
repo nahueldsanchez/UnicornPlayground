@@ -68,7 +68,7 @@ Now, we'll install the **Python binding**:
 
 I've added the following lines to the **"activate"** file to avoid executing them every time I have to use the tools:
 
-```bash
+```
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:</path_where_libcapstone.so.4_is_stored>
 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:<path_to_keystone>/build/llvm/lib/
